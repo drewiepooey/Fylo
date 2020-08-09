@@ -118,6 +118,15 @@ body {
   font-weight: 700;
 }
 
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
 /* Tablet & desktop version from 768 pixels and up */
 @media (min-width: 768px) {
   body {
